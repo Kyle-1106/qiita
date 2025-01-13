@@ -4,7 +4,7 @@ tags:
   - TypeScript
   - TypeORM
 private: false
-updated_at: '2023-12-06T21:46:44+09:00'
+updated_at: '2025-01-13T19:38:35+09:00'
 id: f6bd1f8bbafe8f56bd5b
 organization_url_name: null
 slide: false
