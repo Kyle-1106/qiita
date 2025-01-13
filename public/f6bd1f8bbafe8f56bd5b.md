@@ -42,7 +42,7 @@ https://github.com/typeorm/typeorm/issues/2176
 TypeORM connection error:  
 DataTypeNotSupportedError: Data type "Object" in "Schedule.time" is not supported by "postgres" database.
 ```
-これについてはこれと同じくtype:'varchar'を明示してあげることでうまくいきました！。
+これについてはこれと同じくtype:'varchar'を明示してあげることでうまくいきました。
 https://stackoverflow.com/questions/64350794/typeorm-message-data-type-object-in-is-not-supported-by-postgr
 
 
