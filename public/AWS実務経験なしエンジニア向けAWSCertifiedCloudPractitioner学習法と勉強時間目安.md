@@ -1,10 +1,11 @@
 ---
 title: AWS実務経験なしエンジニア向けAWSCertifiedCloudPractitioner学習法と勉強時間目安
 tags:
-  - ''
+  - AWS
+  - AWS認定資格
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-01-26T17:11:08+09:00'
+id: 640fde2c501e971ac1eb
 organization_url_name: null
 slide: false
 ignorePublish: false
@@ -12,6 +13,7 @@ ignorePublish: false
 # 目的
 今月にAWS Certified Cloud Practitionerを取得したので、その体験記を共有させていただきます。普段エンジニアとして働いているのでITの基礎知識はあるが、AWSのサービスに触れたことはないようなエンジニアがどれくらい学習すればいいのかを把握することを目的に書いていきます。合格証を載せておきます。
 
+![AWS認定資格合格証](../images/aws-cert.png)
 # 私のバックグラウンド
  AWSの資格取得の難易度は「どの程度AWSサービスに触れたことがあるか」で大きく学習時間などに差が着くかと思いますので、私のスペックを記載しておきます。
 - 国立理系大学卒
@@ -39,7 +41,8 @@ https://www.udemy.com/course/webapplication-on-aws/?couponCode=V2JPLETSLEARN
 
 ## 2.1と並行してAWS認定資格試験テキストを流し読みする　WEB問題集をとく(合計2時間くらい)
 ハンズオンを受けながら、そのハンズオンで触っているサービスの単元をAWS認定資格試験テキストで確認しました。
-こうすることで、ただAWS認定資格試験テキストを読むよりも理解が深まりました。
+各サービスで聞かれるポイントはある程度決まっているので、「そのサービスで何ができるか」を理解した後は、この書籍で該当範囲を確認することで「そのサービスに対してどのようなことが問われるのか」を理解することができました。
+このようにハンズオンと並行することで、ただAWS認定資格試験テキストを読むよりも理解が深まりました。
 
 https://amzn.asia/d/8zcTGU3
 
